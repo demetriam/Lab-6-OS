@@ -1,5 +1,5 @@
-// C program for implementation of Simulation
-// I worked with Aster Smith on this lab. 
+
+// Demetria Mack @02927552 I worked with Aster Smith on this lab. 
 #include<stdio.h> 
 #include<limits.h>
 #include<stdlib.h>
